@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchparse",
+        "uuid": 36701444,
+        "checksum": "exjpdb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
